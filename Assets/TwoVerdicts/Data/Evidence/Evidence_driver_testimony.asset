@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feff7d93b19cb4f4598885417e885443, type: 3}
+  m_Name: Evidence_driver_testimony
+  m_EditorClassIdentifier: Assembly-CSharp::TwoVerdicts.Data.EvidenceData
+  evidenceId: driver_testimony
+  title: "\uB9AC\uBB34\uC9C4 \uAE30\uC0AC\uC758 \uC99D\uC5B8"
+  surfaceText: "\uACF5\uD56D\uC73C\uB85C \uAC00\uAE30\uB85C \uD55C \uBC24, \uAE30\uC0AC\uB294
+    \uB808\uC774\uC758 \uC9D1 \uC55E\uC5D0\uC11C \uD55C\uCC38 \uCD08\uC778\uC885\uC744
+    \uB20C\uB800\uC9C0\uB9CC \uC544\uBB34\uB3C4 \uB098\uC624\uC9C0 \uC54A\uC558\uB2E4\uACE0
+    \uD55C\uB2E4."
+  deepText: "\uC7A0\uC2DC \uB4A4 \uAC80\uC740 \uC637\uC744 \uC785\uC740 \uD070 \uCCB4\uACA9\uC758
+    \uC0AC\uB78C\uC774 \uD604\uAD00\uC73C\uB85C \uB4E4\uC5B4\uAC00\uB294 \uAC83\uC744
+    \uBD24\uB2E4. \uADF8 \uC9C1\uD6C4 \uC9D1\uC5D0 \uBD88\uC774 \uCF1C\uC84C\uACE0,
+    \uB808\uC774\uAC00 \uB098\uC654\uB2E4."
+  category: 1
+  guiltWeight: 2
+  isTainted: 0
+  icon: {fileID: 21300000, guid: 9b81efd2be6a6ed4cbc2baba6b60e95f, type: 3}

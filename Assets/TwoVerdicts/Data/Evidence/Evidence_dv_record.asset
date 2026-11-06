@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feff7d93b19cb4f4598885417e885443, type: 3}
+  m_Name: Evidence_dv_record
+  m_EditorClassIdentifier: Assembly-CSharp::TwoVerdicts.Data.EvidenceData
+  evidenceId: dv_record
+  title: "\uAC00\uC815\uD3ED\uB825 \uC2E0\uACE0 \uAE30\uB85D"
+  surfaceText: "\uC5D8\uB80C\uC740 \uACB0\uD63C \uC0DD\uD65C \uB3D9\uC548 \uC5EC\uB7EC
+    \uBC88 \uACBD\uCC30\uC744 \uBD88\uB800\uB2E4. \uD55C \uB179\uC74C\uC5D0\uC11C
+    \uADF8\uB140\uB294 \"\uADF8\uAC00 \uB0A0 \uC8FD\uC77C \uAC70\uC608\uC694\"\uB77C\uACE0
+    \uB9D0\uD55C\uB2E4."
+  deepText: "\uB808\uC774\uB294 \uB9E4\uBC88 \uAC00\uBCBC\uC6B4 \uCC98\uBD84\uB9CC
+    \uBC1B\uC558\uB2E4. \uCD9C\uB3D9\uD55C \uACBD\uCC30\uB4E4\uC740 \uADF8\uC5D0\uAC8C
+    \uC0AC\uC778\uC744 \uBC1B\uC544 \uAC14\uB2E4."
+  category: 2
+  guiltWeight: 2
+  isTainted: 0
+  icon: {fileID: 21300000, guid: 942e745640cfbe1468ef7a1eeb13b3a0, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feff7d93b19cb4f4598885417e885443, type: 3}
+  m_Name: Evidence_live_chase
+  m_EditorClassIdentifier: Assembly-CSharp::TwoVerdicts.Data.EvidenceData
+  evidenceId: live_chase
+  title: "\uCD94\uACA9 \uC0DD\uC911\uACC4 \uC601\uC0C1"
+  surfaceText: "\uCCB4\uD3EC \uC9C1\uC804 \uB808\uC774\uB294 \uACE0\uC18D\uB3C4\uB85C\uB97C
+    \uB2EC\uB838\uB2E4. \uCC28 \uC548\uC5D0\uB294 \uC5EC\uAD8C, \uAC00\uC9DC \uC218\uC5FC,
+    \uD604\uAE08\uC774 \uC788\uC5C8\uB2E4."
+  deepText: "\uADF8\uB294 \uCD9C\uBC1C \uC804 \"\uB098 \uB54C\uBB38\uC5D0 \uC2AC\uD37C\uD558\uC9C0
+    \uB9C8\uB77C\"\uB85C \uB05D\uB098\uB294 \uD3B8\uC9C0\uB97C \uB0A8\uACBC\uB2E4.
+    \uB3C4\uC8FC\uC600\uC744\uAE4C, \uBB34\uB108\uC9C4 \uAC78\uAE4C."
+  category: 2
+  guiltWeight: 2
+  isTainted: 0
+  icon: {fileID: 21300000, guid: 5a6ef41d838801547b20b7dbe02f8820, type: 3}

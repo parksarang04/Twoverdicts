@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feff7d93b19cb4f4598885417e885443, type: 3}
+  m_Name: Evidence_blood_sample
+  m_EditorClassIdentifier: Assembly-CSharp::TwoVerdicts.Data.EvidenceData
+  evidenceId: blood_sample
+  title: "\uD608\uC561 \uC0D8\uD50C \uBCF4\uAD00 \uAE30\uB85D"
+  surfaceText: "\uB808\uC774\uC5D0\uAC8C\uC11C \uCC44\uCDE8\uD55C \uD608\uC561\uC758
+    DNA\uAC00 \uD604\uC7A5 \uD608\uD754\uACFC \uC77C\uCE58\uD55C\uB2E4. \uC6B0\uC5F0\uC77C
+    \uD655\uB960\uC740 \uC218\uC2ED\uC5B5 \uBD84\uC758 \uC77C."
+  deepText: "\uCC44\uCDE8\uD55C \uD608\uC561 \uC911 \uC77C\uBD80\uC758 \uC591\uC774
+    \uAE30\uB85D\uACFC \uB9DE\uC9C0 \uC54A\uB294\uB2E4. \uB2F4\uB2F9 \uC218\uC0AC\uAD00\uC740
+    \uADF8 \uC0D8\uD50C\uC744 \uD558\uB8E8 \uB3D9\uC548 \uB4E4\uACE0 \uB2E4\uB154\uB2E4."
+  category: 2
+  guiltWeight: 3
+  isTainted: 1
+  icon: {fileID: 21300000, guid: 2d198508bf6b5204a9e152683cccac75, type: 3}

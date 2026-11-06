@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feff7d93b19cb4f4598885417e885443, type: 3}
+  m_Name: Evidence_harman_tape
+  m_EditorClassIdentifier: Assembly-CSharp::TwoVerdicts.Data.EvidenceData
+  evidenceId: harman_tape
+  title: "\uD558\uBA3C \uD615\uC0AC\uC758 \uB179\uC74C\uD14C\uC774\uD504"
+  surfaceText: "\uD55C \uC791\uAC00\uAC00 \uBA87 \uB144 \uC804 \uD558\uBA3C \uD615\uC0AC\uB97C
+    \uC778\uD130\uBDF0\uD55C \uD14C\uC774\uD504\uB97C \uAC16\uACE0 \uC788\uB2E4\uACE0
+    \uD55C\uB2E4."
+  deepText: "\uD14C\uC774\uD504 \uC18D \uD558\uBA3C\uC740 \uD751\uC778\uC744 \uD5A5\uD55C
+    \uBA78\uCE6D\uC744 \uC218\uC2ED \uBC88 \uC4F0\uACE0, \uC99D\uAC70\uB97C \uB9CC\uB4E4\uC5B4\uB0B8
+    \uC801\uC774 \uC788\uB2E4\uACE0 \uC790\uB791\uD55C\uB2E4. \uADF8\uB294 \uBC95\uC815\uC5D0\uC11C
+    \uADF8\uB7F0 \uB9D0\uC744 \uD55C \uC801 \uC5C6\uB2E4\uACE0 \uC120\uC11C\uD588\uB2E4."
+  category: 2
+  guiltWeight: -2
+  isTainted: 1
+  icon: {fileID: 21300000, guid: 62c559b49acf609418ab953bcaf1892e, type: 3}
